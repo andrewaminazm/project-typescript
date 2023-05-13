@@ -1,11 +1,10 @@
-# cypress-typescript-template
-Cypress TypeScript Github Template
+
 
 ## Overview
 
 This template is to be used as a starting point when creating a new automation test framework in TypeScript using Cypress.io
 
-The project has a couple of examples tests which targets http://demoqa.com/
+The project has a couple of examples tests which targets
 
 ## Structure
 
