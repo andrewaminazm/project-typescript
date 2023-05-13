@@ -2,13 +2,13 @@
 
 ## Overview
 
-This template is to be used as a starting point when creating a new automation test framework in TypeScript using Cypress.io
+ new automation test framework in TypeScript using Cypress.io
 
-The project has a couple of examples tests which targets
+
 
 ## Structure
 
-The template uses the following structure and dependencies as a starting point:
+
 
 Everything Cypress related sits under the Cypress directory. 
 
@@ -20,7 +20,7 @@ esLint - The template utilises esLint to format and lint the code.
 
 ## Scripts 
 
-The template utilises the following scripts:
+
 
 ``npm run format`` - This script formats your code using Prettier
 
